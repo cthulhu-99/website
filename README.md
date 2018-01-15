@@ -1,8 +1,5 @@
 # my-website
 
-My beutiful website!
+This is awasome website
 
-Now editing on update-readme branch
-
-Update locally
-
+Updates made on master GitHub before rebase
