@@ -10,4 +10,4 @@ This file is just a remade file
 
 ## Purpose
 
-This is supose to be a feautre file.
+This repo will show the difference between working on local vs GitHub
